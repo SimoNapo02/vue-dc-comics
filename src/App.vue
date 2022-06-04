@@ -7,17 +7,17 @@
 </template>
 
 <script>
-import baseHeader from './components/baseHeader.vue';
+import BaseHeader from './components/baseHeader.vue';
 import baseMain from './components/baseMain.vue';
 import baseFooter from './components/baseFooter.vue';
 
 export default {
   name: 'App',
-   components: {
-    baseHeader,
+  components: {
+    BaseHeader,
     baseMain,
-    baseFooter
-}
+    baseFooter,
+  },
 };
 </script>
 
