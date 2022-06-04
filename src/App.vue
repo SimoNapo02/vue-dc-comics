@@ -8,15 +8,15 @@
 
 <script>
 import BaseHeader from './components/baseHeader.vue';
-import baseMain from './components/baseMain.vue';
-import baseFooter from './components/baseFooter.vue';
+import BaseMain from './components/baseMain.vue';
+import BaseFooter from './components/baseFooter.vue';
 
 export default {
   name: 'App',
   components: {
     BaseHeader,
-    baseMain,
-    baseFooter,
+    BaseMain,
+    BaseFooter,
   },
 };
 </script>
