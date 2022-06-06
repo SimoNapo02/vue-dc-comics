@@ -22,7 +22,7 @@
                     </a>
                     <a href="#" class="footer-top__item">
                         <img class="footer-top__item-img" src="../assets/img/buy-dc-power-visa.svg" alt="dc power pisa">
-                        <small>Dc power pisa</small>
+                        <small>Dc power visa</small>
                     </a>
                 </div>
             </div>
